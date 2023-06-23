@@ -1,25 +1,19 @@
 //
 //
-//
+import Header from "./components/Header";
+import Body from "./components/Body";
+import Footer from "./components/Footer";
+import { BrowserRouter, createBrowserRouter } from "react-router-dom";
+
+const appRouter = createBrowserRouter([{}]);
 
 function App() {
     return (
-        <>
-            <div className="container section">
-                <h1>
-                    lorem ipufa f afkajhfas fhkja fkashfhdksa fkasfhak
-                    fkaskfhkasfkhak fkahfkahkfhk gfhkdghfkdhkier ie d
-                </h1>
-                <button className="btn">click</button>
-            </div>
-            <div className="container section">
-                <h1>
-                    lorem ipufa f afkajhfas fhkja fkashfhdksa fkasfhak
-                    fkaskfhkasfkhak fkahfkahkfhk gfhkdghfkdhkier ie d
-                </h1>
-                <button className="btn">click</button>
-            </div>
-        </>
+        <BrowserRouter>
+            <Header />
+            <Body />
+            <Footer />
+        </BrowserRouter>
     );
 }
 
