@@ -4,6 +4,8 @@
     align-items: center;
     padding-top: 2rem;
     padding-bottom: 2rem;
+    position: relative;
+    z-index: 9999;
 }
 
 .header__menu {
@@ -15,6 +17,10 @@
     width: var(--size-2xl);
     height: var(--size-2xl);
     display: block;
+}
+
+.header__resume {
+    font-size: var(--size-xs);
 }
 
 /* xs

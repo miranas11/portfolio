@@ -20,7 +20,11 @@ const Hero = () => {
                     React.js, Express.js, SpringBoot, MongoDB, MySQL, Flutter
                 </strong>{" "}
             </p>
-            <a className="hero__btn btn" href="">
+            <a
+                className="hero__btn btn"
+                href="https://www.linkedin.com/in/miranas11/"
+                target="_blank"
+            >
                 Reach Out
             </a>
         </section>

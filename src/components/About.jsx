@@ -3,23 +3,23 @@ import aboutImg from "../img/profile.jpg";
 
 const About = () => {
     return (
-        <section className="about container section">
+        <section id="about" className="about container section">
             <div className="about__content">
                 <h2 className="about__title">About</h2>
                 <p className="about__description">
-                    dfsamfd kjhdfdhad hkasdfh kdsahf ah dkshafjdhaskf hdashdska
-                    hfkahsfjk dfaskhkfhask hsad fkhas fhdsakh h skahf kashf dash
-                    fkdashkajsdh fkjhasf fsjafhgahs g
+                    Hi! I am Mir Anas, a Full-Stack Web Developer and Mobile App
+                    Developer.
                 </p>
                 <p className="about__description">
-                    kjafhs kkhdskaf hkajsf askf dhsaf ashfkashf dsakhfkdsahf
-                    ksdah fsdahkfdsafh kasfagfwueyufi sjh jxanmakqew fdaf
-                    dasjgfye fasdkqf asjhfjdsagfeuq sdafgfeq fdsajfd egfqouqoefq
-                    dsajddg am,babmdanf qoeeqpfads{" "}
+                    I have completed an intership at Magic EdTech as a Backend
+                    Developer where i was tasked to build REST API's using
+                    Spring Boot. After completing my intership i started
+                    exploring the MERN Stack and i have built several projects
+                    while learning the same.
                 </p>
                 <p className="about__description">
-                    dfakjhfjkahfhak fkdh fkasfh dsaihfdkja fkdahsfkdhskfh
-                    daskhfahfhakd fhaskfhdkjah d dhah kjahak hda
+                    I have completed my Bachelors Degree in Computer Science
+                    from Sharda University in 2023.
                 </p>
                 <hr className="about__hr" />
                 <h3 className="about__subtitle">Technologies</h3>

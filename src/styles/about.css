@@ -10,9 +10,10 @@
     gap: 1rem;
 }
 
-/* .about__title {
-} */
-
+.about__title {
+    font-size: var(--size-2xl);
+    color: var(--size-light);
+}
 .about__description {
     max-width: 60ch;
     font-size: var(--size-sm);
@@ -60,6 +61,10 @@
 @media (min-width: 475px) {
     .about {
         gap: 1.5rem;
+    }
+
+    .about__title {
+        font-size: var(--size-3xl);
     }
 
     .about__content {
