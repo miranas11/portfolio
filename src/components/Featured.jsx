@@ -1,4 +1,5 @@
 import React from "react";
+import featured0 from "../img/featured0.1.png";
 import featured1 from "../img/featured1.1.png";
 import featured2 from "../img/featured1.2.png";
 import featured3 from "../img/featured1.3.png";

@@ -69,7 +69,7 @@ const MobileNavbar = ({ hideNavbar, switchTheme }) => {
                     <li>
                         <Link
                             className="mobile-nav__btn btn"
-                            to="https://drive.google.com/file/d/1Vgn0nVJ7gOyRBywB3YYlSAOzgocQ5bjw/view?usp=sharing"
+                            to="https://drive.google.com/file/d/1JzmaUbHxBuyn9fmAs65sRoZu-smxxAiI/view"
                         >
                             Resume
                         </Link>

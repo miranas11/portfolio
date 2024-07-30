@@ -10,7 +10,7 @@ const Body = () => {
         <main>
             <Hero />
             <About />
-            <Featured />
+            {/* <Featured /> */}
             <Projects />
             <Contact />
         </main>

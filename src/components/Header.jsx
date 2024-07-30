@@ -73,7 +73,7 @@ const Header = () => {
                         <li>
                             <Link
                                 to={
-                                    "https://drive.google.com/file/d/1Vgn0nVJ7gOyRBywB3YYlSAOzgocQ5bjw/view?usp=sharing"
+                                    "https://drive.google.com/file/d/1JzmaUbHxBuyn9fmAs65sRoZu-smxxAiI/view"
                                 }
                                 className="header__resume btn"
                             >
